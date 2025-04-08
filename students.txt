@@ -1,0 +1,2 @@
+LivingType: Hosteler
+Expenses: Food, Academic, Travell, Mics, gf
